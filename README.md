@@ -15,6 +15,7 @@ sudo make install
 
 conda create --name NN-stocks python=3
 conda activate NN-stocks
-conda install TA-Lib plotly pandas
+conda install TA-Lib plotly pandas matplotlib keras scikit-learny
+
 
 
